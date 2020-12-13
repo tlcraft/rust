@@ -6,5 +6,5 @@ TRPL: [https://doc.rust-lang.org/book/title-page.html](https://doc.rust-lang.org
 
 ## Example of running on Windows
 
-$ rustc chapter1\helloworld.rs
-$ chapter1\helloworld
+$ rustc hello_world.rs
+$ hello_world
