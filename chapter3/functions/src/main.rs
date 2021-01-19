@@ -1,8 +1,8 @@
 fn main() {
-    let x = 4; //these two lines, using the let keyword, are examples of statements
+    let x = 4; //these two lines, using the let keyword, are examples of statements. Statements don’t evaluate to a value.
     let y = {
         let z = three();
-        z + 3  //this is an expression with no semi-colon so the value is returned
+        z + 3  //this is an expression with no semi-colon so the value is returned. Expressions do evaluate to a value.
     }; 
     another_function(x, y);
 }
